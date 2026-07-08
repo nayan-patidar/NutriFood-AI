@@ -1,0 +1,31 @@
+# Environment
+backend/.env
+
+# Uploads
+backend/uploads/
+
+# ML
+# ML/models/
+ML/test images/
+ML/ML model training colab file/
+ML/improvements to do/
+ML/__pycache__/
+ML/.ipynb_checkpoints/
+ML/*.pyc
+ML/.pytest_cache/
+ML/venv/
+ML/.venv/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/settings.json
+
+# Python
+requirements.txt
